@@ -10,4 +10,4 @@ The project contains the following files:
 7.	data_Y.txt: The labels for data_X.
 8.	app.py: Server program that delivers predicted results for the passed json file on POST.
 The app.py program was tested using POSTMAN as the client.  
-Signs for buy, communicate, fun, hope, mother and really were considered for this work
+Signs for buy, communicate, fun, hope, mother and really were considered for this work. The models have been picked and can be found in the models folder.
