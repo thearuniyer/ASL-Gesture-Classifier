@@ -1,5 +1,6 @@
 # gesture-predictor
 ASL (AMERICAN SIGN LANGUAGE) Gesture prediction
+
 The project contains the following files:
 1.	keypoints.json: Extracts the keypoints of body parts from the frames of the videos.
 2.	convert_to_csv.py: Converts the json file of keypoints to it’s csv equivalent
