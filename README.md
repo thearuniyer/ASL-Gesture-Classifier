@@ -1,5 +1,5 @@
 # gesture-predictor
-ASL (AMERICAN SIGN LANGUAGE) Gesture prediction ML model 
+ASL (AMERICAN SIGN LANGUAGE) Gesture prediction
 The project contains the following files:
 1.	keypoints.json: Extracts the keypoints of body parts from the frames of the videos.
 2.	convert_to_csv.py: Converts the json file of keypoints to it’s csv equivalent
@@ -10,5 +10,5 @@ The project contains the following files:
 7.	data_Y.txt: The labels for data_X.
 8.	app.py: Server program that delivers predicted results for the passed json file on POST.
 The app.py program was tested using POSTMAN as the client.  
-Signs for buy, communicate, fun, hope, mother and really were considered for this work. The models have been picked and can be found in the models folder.
+Signs for buy, communicate, fun, hope, mother and really were considered for this work. The models have been pickled and can be found in the models folder.
 The server url is : http://18.223.185.34:80/
